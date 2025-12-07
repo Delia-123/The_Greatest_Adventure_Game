@@ -1,11 +1,11 @@
-This is the readme of Assignment_2
+This is the readme of The Greatest Adventurer
 
 CONTENTS:
-	hw2.cpp
+	Game.cpp
 	README
 	
 	HOW TO COMPILE:
-		In the 'source' directory, type 'g++ hw2.cpp -lpthread' and enter on concole.
+		In the 'source' directory, type 'g++ Game.cpp -lpthread' and enter on concole.
 		
 		
 	HOW TO EXECUTE:
